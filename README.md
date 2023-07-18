@@ -37,7 +37,7 @@ React Native developement environment. The packages that need to be installed in
 4. Install dependencies for [Font Awesome](https://fontawesome.com/docs/web/use-with/react/)
 
 ## Built With 
-[React Native](https://facebook.github.io/react-native/)
+[ReactJS](https://react.dev/)
 
 ## Authors
 Natasha Chambers
