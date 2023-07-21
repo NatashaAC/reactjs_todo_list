@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faCheckSquare, faPenToSquare, faSquare } from "@fortawesome/free-regular-svg-icons";
 import { faTrash } from "@fortawesome/free-solid-svg-icons";
 
-export const Task = ({task, toggleComplete, deleteTask, editTask}) => {
+const Task = ({task, toggleComplete, deleteTask, editTask}) => {
     return (
         <div className="task">
             <div>
@@ -18,3 +18,5 @@ export const Task = ({task, toggleComplete, deleteTask, editTask}) => {
         </div>
     )
 }
+
+export default Task;

@@ -5,7 +5,7 @@ import { TaskForm } from "./TaskForm";
 import { Task } from "./Task";
 import { EditTask } from "./EditTask";
 
-export const TaskWrapper = () => {
+const TaskWrapper = () => {
     const [tasks, setTasks] = useState([]);
 
     const addTask = (task) => {
@@ -60,3 +60,5 @@ export const TaskWrapper = () => {
        </div>
     )
 }
+
+export default TaskWrapper;
