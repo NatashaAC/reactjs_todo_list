@@ -9,16 +9,16 @@ This is app where users can create a list of tasks to complete.
 
 ## Images
 ### Empty List
-![Empty List](src\img\empty_list.png)
+![empty_list](https://github.com/NatashaAC/reactjs_todo_list/assets/55518240/362482b5-2048-40b8-adf2-ec51ee79032f)
 
 ### Populated List
-![Populated List](src\img\populated_list.png)
+![populated_list](https://github.com/NatashaAC/reactjs_todo_list/assets/55518240/d229ff6e-8ffb-4695-96d7-f3d60fa94c5a)
 
 ### Edit Task
-![Edit](src\img\edit_task.png)
+![edit_task](https://github.com/NatashaAC/reactjs_todo_list/assets/55518240/6cde714f-67ee-4c26-8b21-ea81055fbe5a)
 
 ### Completed Task
-![Completed Task](src\img\completed_task.png)
+![completed_task](https://github.com/NatashaAC/reactjs_todo_list/assets/55518240/f89ce8cb-d179-49e3-8432-dcf0aa834795)
 
 ## Getting Started
 ### Prerequisites
@@ -37,7 +37,7 @@ React Native developement environment. The packages that need to be installed in
 4. Install dependencies for [Font Awesome](https://fontawesome.com/docs/web/use-with/react/)
 
 ## Built With 
-[React Native](https://facebook.github.io/react-native/)
+[ReactJS](https://react.dev/)
 
 ## Authors
 Natasha Chambers
