@@ -1,5 +1,5 @@
 import './App.css';
-import { TaskWrapper } from './components/TaskWrapper.js';
+import TaskWrapper from './components/TaskWrapper.js';
 
 function App() {
   return (
