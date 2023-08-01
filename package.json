@@ -2,7 +2,7 @@
   "name": "reactjs_todo_list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://{github-username}.github.io/{repo-name}",
+  "homepage": "http://natashaac.github.io/reactjs_todo_list",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-regular-svg-icons": "^6.4.0",
